@@ -20,6 +20,6 @@ Create another list containing tuples. Each tuple will hold the name of a spacec
 ```spacecraft = [
    ("Cassini", "Saturn"),
    ("Viking", "Mars"),
-]```
+]
 
 Iterate over your list of planets, and inside that loop, iterate over the list of tuples. Print, for each planet, which satellites have visited it.
